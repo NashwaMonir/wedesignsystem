@@ -1,0 +1,1246 @@
+[
+  {
+    "Colors": {
+      "Violet": {
+        "Violet-120": {
+          "type": "color",
+          "value": "#35115a"
+        },
+        "Violet-110": {
+          "type": "color",
+          "value": "#51277c"
+        },
+        "Violet-100": {
+          "type": "color",
+          "value": "#5c2d91"
+        },
+        "Violet-90": {
+          "type": "color",
+          "value": "#6c419c"
+        },
+        "Violet-80": {
+          "type": "color",
+          "value": "#7d56a7"
+        },
+        "Violet-70": {
+          "type": "color",
+          "value": "#8d6bb2"
+        },
+        "Violet- 60": {
+          "type": "color",
+          "value": "#9d80bd"
+        },
+        "Violet- 50": {
+          "type": "color",
+          "value": "#ad95c8"
+        },
+        "Violet- 40": {
+          "type": "color",
+          "value": "#beabd3"
+        },
+        "Violet- 30": {
+          "type": "color",
+          "value": "#cec0de"
+        },
+        "Violet- 20": {
+          "type": "color",
+          "value": "#ded5e9"
+        },
+        "Violet- 10": {
+          "type": "color",
+          "value": "#efeaf4"
+        },
+        "Violet- 5": {
+          "type": "color",
+          "value": "#f7f4f9"
+        }
+      },
+      "Purple": {
+        "Purple-120": {
+          "type": "color",
+          "value": "#6d2268"
+        },
+        "Purple-110": {
+          "type": "color",
+          "value": "#852382"
+        },
+        "Purple-100": {
+          "type": "color",
+          "value": "#9c2799"
+        },
+        "Purple-90": {
+          "type": "color",
+          "value": "#a63da3"
+        },
+        "Purple-80": {
+          "type": "color",
+          "value": "#b052ad"
+        },
+        "Purple-70": {
+          "type": "color",
+          "value": "#ba68b8"
+        },
+        "Purple-60": {
+          "type": "color",
+          "value": "#c47dc2"
+        },
+        "Purple-50": {
+          "type": "color",
+          "value": "#cd93cc"
+        },
+        "Purple-40": {
+          "type": "color",
+          "value": "#d7a9d6"
+        },
+        "Purple-30": {
+          "type": "color",
+          "value": "#e1bee0"
+        },
+        "Purple-20": {
+          "type": "color",
+          "value": "#ebd4eb"
+        },
+        "Purple-10": {
+          "type": "color",
+          "value": "#f5e9f5"
+        },
+        "Purple-5": {
+          "type": "color",
+          "value": "#faf4fa"
+        }
+      },
+      "Orange": {
+        "Orange-120": {
+          "type": "color",
+          "value": "#c78d2a"
+        },
+        "Orange-110": {
+          "type": "color",
+          "value": "#e09e30"
+        },
+        "Orange-100": {
+          "type": "color",
+          "value": "#f9b035"
+        },
+        "Orange-90": {
+          "type": "color",
+          "value": "#fab849"
+        },
+        "Orange-80": {
+          "type": "color",
+          "value": "#fac05d"
+        },
+        "Orange-70": {
+          "type": "color",
+          "value": "#fbc872"
+        },
+        "Orange-60": {
+          "type": "color",
+          "value": "#fbd086"
+        },
+        "Orange-50": {
+          "type": "color",
+          "value": "#fcd79a"
+        },
+        "Orange-40": {
+          "type": "color",
+          "value": "#fddfae"
+        },
+        "Orange-30": {
+          "type": "color",
+          "value": "#fde7c2"
+        },
+        "Orange-20": {
+          "type": "color",
+          "value": "#feefd7"
+        },
+        "Orange-10": {
+          "type": "color",
+          "value": "#fef7eb"
+        },
+        "Orange-5": {
+          "type": "color",
+          "value": "#fffbf5"
+        }
+      },
+      "Red": {
+        "Red-120": {
+          "type": "color",
+          "value": "#be242a"
+        },
+        "Red-110": {
+          "type": "color",
+          "value": "#d5282d"
+        },
+        "Red-100": {
+          "type": "color",
+          "value": "#ec2d30"
+        },
+        "Red-90": {
+          "type": "color",
+          "value": "#ee4245"
+        },
+        "Red-80": {
+          "type": "color",
+          "value": "#f05759"
+        },
+        "Red-70": {
+          "type": "color",
+          "value": "#f26c6e"
+        },
+        "Red-60": {
+          "type": "color",
+          "value": "#f48183"
+        },
+        "Red-50": {
+          "type": "color",
+          "value": "#f59697"
+        },
+        "Red-40": {
+          "type": "color",
+          "value": "#f7abac"
+        },
+        "Red-30": {
+          "type": "color",
+          "value": "#f9c0c1"
+        },
+        "Red-20": {
+          "type": "color",
+          "value": "#fbd5d6"
+        },
+        "Red-10": {
+          "type": "color",
+          "value": "#fdeaea"
+        },
+        "Red-5": {
+          "type": "color",
+          "value": "#fef4f5"
+        }
+      },
+      "Green": {
+        "Green-120": {
+          "type": "color",
+          "value": "#0b7e51"
+        },
+        "Green-110": {
+          "type": "color",
+          "value": "#0c8d59"
+        },
+        "Green-100": {
+          "type": "color",
+          "value": "#0c9d61"
+        },
+        "Green-90": {
+          "type": "color",
+          "value": "#24a771"
+        },
+        "Green-80": {
+          "type": "color",
+          "value": "#3db181"
+        },
+        "Green-70": {
+          "type": "color",
+          "value": "#55ba90"
+        },
+        "Green-60": {
+          "type": "color",
+          "value": "#6dc4a0"
+        },
+        "Green-50": {
+          "type": "color",
+          "value": "#85ceb0"
+        },
+        "Green-40": {
+          "type": "color",
+          "value": "#9ed8c0"
+        },
+        "Green-30": {
+          "type": "color",
+          "value": "#b6e2d0"
+        },
+        "Green-20": {
+          "type": "color",
+          "value": "#ceebdf"
+        },
+        "Green-10": {
+          "type": "color",
+          "value": "#e7f5ef"
+        },
+        "Green-5": {
+          "type": "color",
+          "value": "#f3faf7"
+        }
+      },
+      "Grey": {
+        "Black": {
+          "type": "color",
+          "value": "#080011"
+        },
+        "Grey-90": {
+          "type": "color",
+          "value": "#211a29"
+        },
+        "Grey-80": {
+          "type": "color",
+          "value": "#393341"
+        },
+        "Grey-70": {
+          "type": "color",
+          "value": "#524d58"
+        },
+        "Grey-60": {
+          "type": "color",
+          "value": "#6b6670"
+        },
+        "Grey-50": {
+          "type": "color",
+          "value": "#838088"
+        },
+        "Grey-40": {
+          "type": "color",
+          "value": "#9c99a0"
+        },
+        "Grey-30": {
+          "type": "color",
+          "value": "#b5b3b8"
+        },
+        "Grey-20": {
+          "type": "color",
+          "value": "#cecccf"
+        },
+        "Grey-10": {
+          "type": "color",
+          "value": "#e6e5e7"
+        },
+        "Grey-5": {
+          "type": "color",
+          "value": "#f3f2f3"
+        },
+        "White": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    "Numbers": {
+      "None 0px": {
+        "type": "number",
+        "value": 0
+      },
+      "4px": {
+        "type": "number",
+        "value": 4
+      },
+      "8px": {
+        "type": "number",
+        "value": 8
+      },
+      "10px": {
+        "type": "number",
+        "value": 10
+      },
+      "12px": {
+        "type": "number",
+        "value": 12
+      },
+      "14px": {
+        "type": "number",
+        "value": 14
+      },
+      "16px": {
+        "type": "number",
+        "value": 16
+      },
+      "18px": {
+        "type": "number",
+        "value": 18
+      },
+      "20px": {
+        "type": "number",
+        "value": 20
+      },
+      "24px": {
+        "type": "number",
+        "value": 24
+      },
+      "32px": {
+        "type": "number",
+        "value": 32
+      },
+      "40px": {
+        "type": "number",
+        "value": 40
+      },
+      "48px": {
+        "type": "number",
+        "value": 48
+      },
+      "56px": {
+        "type": "number",
+        "value": 56
+      },
+      "64px": {
+        "type": "number",
+        "value": 64
+      },
+      "72px": {
+        "type": "number",
+        "value": 72
+      },
+      "80px": {
+        "type": "number",
+        "value": 80
+      },
+      "96px": {
+        "type": "number",
+        "value": 96
+      }
+    }
+  },
+  {
+    "Spacing": {
+      "Spacing-None": {
+        "type": "number",
+        "value": "{Numbers.None 0px}"
+      },
+      "Spacing-5": {
+        "type": "number",
+        "value": "{Numbers.4px}"
+      },
+      "Spacing-10": {
+        "type": "number",
+        "value": "{Numbers.8px}"
+      },
+      "Spacing-15": {
+        "type": "number",
+        "value": "{Numbers.12px}"
+      },
+      "Spacing-20": {
+        "type": "number",
+        "value": "{Numbers.16px}"
+      },
+      "Spacing-25": {
+        "type": "number",
+        "value": "{Numbers.20px}"
+      },
+      "Spacing-30": {
+        "type": "number",
+        "value": "{Numbers.24px}"
+      },
+      "Spacing-40": {
+        "type": "number",
+        "value": "{Numbers.32px}"
+      },
+      "Spacing-50": {
+        "type": "number",
+        "value": "{Numbers.40px}"
+      },
+      "Spacing-60": {
+        "type": "number",
+        "value": "{Numbers.48px}"
+      },
+      "Spacing-70": {
+        "type": "number",
+        "value": "{Numbers.56px}"
+      },
+      "Spacing-80": {
+        "type": "number",
+        "value": "{Numbers.64px}"
+      },
+      "Spacing-90": {
+        "type": "number",
+        "value": "{Numbers.72px}"
+      },
+      "Spacing-100": {
+        "type": "number",
+        "value": "{Numbers.80px}"
+      },
+      "Spacing-120": {
+        "type": "number",
+        "value": "{Numbers.96px}"
+      }
+    },
+    "Radius": {
+      "None": {
+        "type": "number",
+        "value": "{Numbers.None 0px}"
+      },
+      "X-Small": {
+        "type": "number",
+        "value": "{Numbers.4px}"
+      },
+      "Small": {
+        "type": "number",
+        "value": "{Numbers.8px}"
+      },
+      "Medium": {
+        "type": "number",
+        "value": "{Numbers.12px}"
+      },
+      "Large": {
+        "type": "number",
+        "value": "{Numbers.16px}"
+      },
+      "X-Large": {
+        "type": "number",
+        "value": "{Numbers.24px}"
+      },
+      "XX-Large": {
+        "type": "number",
+        "value": "{Numbers.32px}"
+      },
+      "Rounded": {
+        "type": "number",
+        "value": "{Numbers.64px}"
+      }
+    },
+    "Colors": {
+      "Surface": {
+        "Primary": {
+          "type": "color",
+          "value": "{Colors.Grey.White}"
+        },
+        "Secondary": {
+          "type": "color",
+          "value": "{Colors.Violet.Violet- 10}"
+        },
+        "Tertiary": {
+          "type": "color",
+          "value": "{Colors.Grey.Grey-5}"
+        },
+        "Brand": {
+          "type": "color",
+          "value": "{Colors.Violet.Violet-100}"
+        },
+        "Brand2": {
+          "type": "color",
+          "value": "{Colors.Purple.Purple-100}"
+        },
+        "Disabled": {
+          "type": "color",
+          "value": "{Colors.Grey.Grey-10}"
+        },
+        "Success": {
+          "type": "color",
+          "value": "{Colors.Green.Green-10}"
+        },
+        "Danger": {
+          "type": "color",
+          "value": "{Colors.Red.Red-10}"
+        },
+        "Warning": {
+          "type": "color",
+          "value": "{Colors.Orange.Orange-10}"
+        },
+        "Inverted": {
+          "type": "color",
+          "value": "{Colors.Grey.Grey-80}"
+        }
+      },
+      "Text": {
+        "Primary": {
+          "type": "color",
+          "value": "{Colors.Grey.Black}"
+        },
+        "Secondary": {
+          "type": "color",
+          "value": "{Colors.Grey.Grey-60}"
+        },
+        "Brand": {
+          "type": "color",
+          "value": "{Colors.Violet.Violet-100}"
+        },
+        "Brand2": {
+          "type": "color",
+          "value": "{Colors.Purple.Purple-100}"
+        },
+        "Disabled": {
+          "type": "color",
+          "value": "{Colors.Grey.Grey-30}"
+        },
+        "Success": {
+          "type": "color",
+          "value": "{Colors.Green.Green-120}"
+        },
+        "warning": {
+          "type": "color",
+          "value": "{Colors.Orange.Orange-120}"
+        },
+        "Danger": {
+          "type": "color",
+          "value": "{Colors.Red.Red-120}"
+        },
+        "Inverted": {
+          "type": "color",
+          "value": "{Colors.Grey.Grey-10}"
+        },
+        "White": {
+          "type": "color",
+          "value": "{Colors.Grey.White}"
+        }
+      },
+      "Stroke": {
+        "Primary": {
+          "type": "color",
+          "value": "{Colors.Grey.Grey-10}"
+        },
+        "Secondary": {
+          "type": "color",
+          "value": "{Colors.Grey.Grey-60}"
+        },
+        "Brand": {
+          "type": "color",
+          "value": "{Colors.Violet.Violet- 60}"
+        },
+        "Brand2": {
+          "type": "color",
+          "value": "{Colors.Purple.Purple-50}"
+        },
+        "disabled": {
+          "type": "color",
+          "value": "{Colors.Grey.Grey-20}"
+        },
+        "Success": {
+          "type": "color",
+          "value": "{Colors.Green.Green-50}"
+        },
+        "Warning": {
+          "type": "color",
+          "value": "{Colors.Orange.Orange-50}"
+        },
+        "Danger": {
+          "type": "color",
+          "value": "{Colors.Red.Red-50}"
+        },
+        "Inverted": {
+          "type": "color",
+          "value": "{Colors.Grey.White}"
+        }
+      }
+    }
+  },
+  {
+    "Font": {
+      "weight": {
+        "Light": {
+          "type": "number",
+          "value": 350
+        },
+        "Regular": {
+          "type": "number",
+          "value": 400
+        },
+        "Medium": {
+          "type": "number",
+          "value": 449
+        },
+        "Semi-bold": {
+          "type": "number",
+          "value": 550
+        },
+        "Bold": {
+          "type": "number",
+          "value": 650
+        }
+      },
+      "Letter-Spacing": {
+        "headings": {
+          "type": "number",
+          "value": -0.6000000238418579
+        },
+        "Body": {
+          "type": "number",
+          "value": -0.10000000149011612
+        }
+      },
+      "Font-size": {
+        "Headings & Display": {
+          "Display": {
+            "type": "number",
+            "value": "{Numbers.56px}"
+          },
+          "H1": {
+            "type": "number",
+            "value": "{Numbers.32px}"
+          },
+          "H2": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H3": {
+            "type": "number",
+            "value": "{Numbers.20px}"
+          },
+          "H4": {
+            "type": "number",
+            "value": "{Numbers.18px}"
+          },
+          "H5": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "H6": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          }
+        },
+        "Body text & Lables": {
+          "Body-Large": {
+            "type": "number",
+            "value": "{Numbers.18px}"
+          },
+          "Body-Default": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Body-Small": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "Label-Text": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          }
+        },
+        "Input fields & forms": {
+          "Large": {
+            "type": "number",
+            "value": "{Numbers.18px}"
+          },
+          "Medium": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Small": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "Helper-Text": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          }
+        },
+        "Button-Text": {
+          "Button-Large": {
+            "type": "number",
+            "value": "{Numbers.18px}"
+          },
+          "Button-Medium": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Button-Small": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "Button-XSmall": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          }
+        }
+      },
+      "Line-Height": {
+        "Headings & Display": {
+          "Display": {
+            "type": "number",
+            "value": "{Numbers.64px}"
+          },
+          "H1": {
+            "type": "number",
+            "value": "{Numbers.40px}"
+          },
+          "H2": {
+            "type": "number",
+            "value": "{Numbers.32px}"
+          },
+          "H3": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H4": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H5": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H6": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        },
+        "Input fields & forms": {
+          "Large": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Medium": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Small": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Helper-Text": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        },
+        "Body text & Lables": {
+          "Body-Large": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Body-Default": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Body-Small": {
+            "type": "number",
+            "value": "{Numbers.20px}"
+          },
+          "Label-Text": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        },
+        "Button-Text": {
+          "Button-Large": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Button-Medium": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Button-Small": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Button-XSmall": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Font": {
+      "weight": {
+        "Light": {
+          "type": "number",
+          "value": 350
+        },
+        "Regular": {
+          "type": "number",
+          "value": 400
+        },
+        "Medium": {
+          "type": "number",
+          "value": 450
+        },
+        "Semi-bold": {
+          "type": "number",
+          "value": 550
+        },
+        "Bold": {
+          "type": "number",
+          "value": 550
+        }
+      },
+      "Letter-Spacing": {
+        "headings": {
+          "type": "number",
+          "value": -0.4000000059604645
+        },
+        "Body": {
+          "type": "number",
+          "value": -0.10000000149011612
+        }
+      },
+      "Font-size": {
+        "Headings & Display": {
+          "Display": {
+            "type": "number",
+            "value": "{Numbers.48px}"
+          },
+          "H1": {
+            "type": "number",
+            "value": 28
+          },
+          "H2": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H3": {
+            "type": "number",
+            "value": "{Numbers.18px}"
+          },
+          "H4": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "H5": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "H6": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          }
+        },
+        "Body text & Lables": {
+          "Body-Large": {
+            "type": "number",
+            "value": "{Numbers.18px}"
+          },
+          "Body-Default": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Body-Small": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "Label-Text": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          }
+        },
+        "Input fields & forms": {
+          "Large": {
+            "type": "number",
+            "value": "{Numbers.18px}"
+          },
+          "Medium": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Small": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "Helper-Text": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          }
+        },
+        "Button-Text": {
+          "Button-Large": {
+            "type": "number",
+            "value": "{Numbers.18px}"
+          },
+          "Button-Medium": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Button-Small": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "Button-XSmall": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          }
+        }
+      },
+      "Line-Height": {
+        "Headings & Display": {
+          "Display": {
+            "type": "number",
+            "value": "{Numbers.56px}"
+          },
+          "H1": {
+            "type": "number",
+            "value": "{Numbers.32px}"
+          },
+          "H2": {
+            "type": "number",
+            "value": "{Numbers.32px}"
+          },
+          "H3": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H4": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H5": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H6": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        },
+        "Input fields & forms": {
+          "Large": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Medium": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Small": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Helper-Text": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        },
+        "Body text & Lables": {
+          "Body-Large": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Body-Default": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Body-Small": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Label-Text": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        },
+        "Button-Text": {
+          "Button-Large": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Button-Medium": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Button-Small": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Button-XSmall": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Font": {
+      "weight": {
+        "Light": {
+          "type": "number",
+          "value": 350
+        },
+        "Regular": {
+          "type": "number",
+          "value": 400
+        },
+        "Medium": {
+          "type": "number",
+          "value": 450
+        },
+        "Semi-bold": {
+          "type": "number",
+          "value": 550
+        },
+        "Bold": {
+          "type": "number",
+          "value": 550
+        }
+      },
+      "Letter-Spacing": {
+        "headings": {
+          "type": "number",
+          "value": -0.4000000059604645
+        },
+        "Body": {
+          "type": "number",
+          "value": -0.10000000149011612
+        }
+      },
+      "Font-size": {
+        "Headings & Display": {
+          "Display": {
+            "type": "number",
+            "value": "{Numbers.32px}"
+          },
+          "H1": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H2": {
+            "type": "number",
+            "value": "{Numbers.20px}"
+          },
+          "H3": {
+            "type": "number",
+            "value": "{Numbers.18px}"
+          },
+          "H4": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "H5": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "H6": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          }
+        },
+        "Body text & Lables": {
+          "Body-Large": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Body-Default": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "Body-Small": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          },
+          "Label-Text": {
+            "type": "number",
+            "value": "{Numbers.10px}"
+          }
+        },
+        "Input fields & forms": {
+          "Large": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Medium": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "Small": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          },
+          "Helper-Text": {
+            "type": "number",
+            "value": "{Numbers.10px}"
+          }
+        },
+        "Button-Text": {
+          "Button-Large": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Button-Medium": {
+            "type": "number",
+            "value": "{Numbers.14px}"
+          },
+          "Button-Small": {
+            "type": "number",
+            "value": "{Numbers.12px}"
+          },
+          "Button-XSmall": {
+            "type": "number",
+            "value": "{Numbers.10px}"
+          }
+        }
+      },
+      "Line-Height": {
+        "Headings & Display": {
+          "Display": {
+            "type": "number",
+            "value": "{Numbers.40px}"
+          },
+          "H1": {
+            "type": "number",
+            "value": "{Numbers.32px}"
+          },
+          "H2": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H3": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H4": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "H5": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "H6": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        },
+        "Input fields & forms": {
+          "Large": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Medium": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Small": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Helper-Text": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        },
+        "Body text & Lables": {
+          "Body-Large": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Body-Default": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Body-Small": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Label-Text": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        },
+        "Button-Text": {
+          "Button-Large": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Button-Medium": {
+            "type": "number",
+            "value": "{Numbers.24px}"
+          },
+          "Button-Small": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          },
+          "Button-XSmall": {
+            "type": "number",
+            "value": "{Numbers.16px}"
+          }
+        }
+      }
+    }
+  }
+]
